@@ -1,5 +1,7 @@
 set nocompatible 
 
+colorscheme badwolf 
+
 filetype indent plugin on 
 
 syntax on 
